@@ -1,0 +1,20 @@
+[
+    {
+        "index": 0,
+        "img": "url(\"/img/bg-showcase-1.jpg\")",
+        "title": "Fully Responsive Design",
+        "description": "When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!"
+    },
+    {
+        "index": 1,
+        "img": "url(\"/img/bg-showcase-3.jpg\")",
+        "title": "Easy to Use & Customize",
+        "description": "Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!"
+    },
+    {
+        "index": 2,
+        "img": "url(\"/img/bg-showcase-2.jpg\")",
+        "title": "Fully Responsive",
+        "description": "Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!"
+    }
+]
